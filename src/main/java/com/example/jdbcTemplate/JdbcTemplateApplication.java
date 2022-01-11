@@ -10,5 +10,4 @@ public class JdbcTemplateApplication {
 		SpringApplication.run(JdbcTemplateApplication.class, args);
 	}
 
-
 }
